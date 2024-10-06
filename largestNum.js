@@ -18,4 +18,4 @@ for (let i = 0; i < size; i++) {
 }
 
 let largestNumber = largestNum(numbers);
-console.log("The largest number is: " + largestNumber);
+document.write("The largest number is: " + largestNumber);
