@@ -3,7 +3,7 @@ function c2f(c) {
     return f;
 }
 
-// Example usage
+
 let c = 25;
 let f = c2f(c);
-console.log(c + "°C is " + f + "°F");
+document.write(c + "°C is " + f + "°F");
